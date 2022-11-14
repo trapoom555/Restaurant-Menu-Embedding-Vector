@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+          393,
+          393
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/menu_embed_bananaleaf.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/meta_data_bananalaef.tsv"
+      }
+    ]
+}
