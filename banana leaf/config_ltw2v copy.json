@@ -1,0 +1,32 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Large Thai Word2Vec",
+        "tensorShape": [
+          429,
+          400
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/menu_embed_ltw2v.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/meta_data_ltw2v.tsv"
+      },
+      {
+        "tensorName": "Thai2Fit",
+        "tensorShape": [
+          429,
+          300
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/menu_embed_bananaleaf_wv.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/meta_data_bananaleaf_wv.tsv"
+      },
+      {
+        "tensorName": "Concurrency Matrix",
+        "tensorShape": [
+          393,
+          393
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/menu_embed_bananaleaf.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/meta_data_bananalaef.tsv"
+      }
+      
+    ]
+}
