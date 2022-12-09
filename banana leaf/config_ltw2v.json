@@ -1,6 +1,15 @@
 {
     "embeddings": [
       {
+        "tensorName": "Large Thai Word2Vec Scaled Weighted Average With Scale Adjustment",
+        "tensorShape": [
+          470,
+          400
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/menu_embed_scaled_weighted_avg.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/trapoom555/Restaurant-Menu-Embedding-Vector/main/banana%20leaf/meta_data_scaled_weighted_avg_with_adjustment.tsv"
+      },
+      {
         "tensorName": "Large Thai Word2Vec Scaled Weighted Average",
         "tensorShape": [
           470,
